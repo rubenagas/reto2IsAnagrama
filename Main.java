@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /* * Reto de Mouredev:
-        # * Reto #1
+        # * Reto #2
         # * ¿ES UN ANAGRAMA?
 
         # * Enunciado: Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean) según sean o no anagramas.
